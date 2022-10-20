@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PM2_P1Tarea1_1.Views.PageResult">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="LightSeaGreen" >
+            <Label Text="Welcome to Xamarin.Forms!" 
+                   TextColor="White"
+                   FontSize="Large"
+                   FontAttributes="Bold"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" x:Name="ResultadoOpe" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
